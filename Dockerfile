@@ -1,4 +1,4 @@
-FROM ubuntu:13.10
+FROM ubuntu:12.04
 MAINTAINER Henri Bouvier
 
 RUN apt-get -y update
