@@ -1,4 +1,6 @@
 FROM ubuntu:12.04
+# Ubuntu 12.04 Precise
+
 MAINTAINER Henri Bouvier
 
 RUN apt-get -y update
