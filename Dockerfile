@@ -1,4 +1,5 @@
 FROM ubuntu:13.10
+# Ubuntu 13.10 Saucy Salamander
 MAINTAINER Henri Bouvier
 
 RUN apt-get -y update
